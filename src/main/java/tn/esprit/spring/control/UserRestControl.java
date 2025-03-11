@@ -38,7 +38,7 @@ public class UserRestControl {
 		User user = userService.addUser(u); 
 		return user;
 	}
-
+////
 	
 	// Supprimer User : 
 	// http://localhost:????/timesheet-devops/remove-user/{user-id}
