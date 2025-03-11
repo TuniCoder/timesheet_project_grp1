@@ -1,0 +1,8 @@
+# Ignorer les fichiers et répertoires non nécessaires
+.classpath
+.idea/
+.mvn/
+.project
+.settings/
+target/
+
